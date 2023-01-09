@@ -1,7 +1,8 @@
 @media only screen and (max-width: 768px) {
 
     .container {
-    max-width: 700px;
+        max-width: 700px;
+        width: 80%;
     }
 
   /* TITLES */
@@ -23,6 +24,7 @@
 
     .container {
         max-width: 380px;
+        width: 80%;
     }
 
     /* TITLES */
@@ -54,5 +56,9 @@
         margin-bottom: 82px;
     }
 
-
+    .why-us .row :last-child,
+    .steps .row :last-child,
+    .lessons .row :last-child {
+        margin-bottom: 0;
+    }
 }
