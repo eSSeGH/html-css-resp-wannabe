@@ -1,0 +1,7 @@
+@media only screen and (max-width: 1160px) {
+
+    .container {
+        max-width: 928px;
+        width: 80%;
+    }
+}
