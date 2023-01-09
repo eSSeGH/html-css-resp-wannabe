@@ -1,5 +1,5 @@
 @media only screen and (max-width: 768px) {
-   
+
     .container {
     max-width: 700px;
     }
@@ -12,7 +12,6 @@
 
     h2 {
         font-size: 1.5rem;
-        color: #fffffe;
     }
 
     h3 {
@@ -25,19 +24,22 @@
     .container {
         max-width: 380px;
     }
-    
+
+    /* TITLES */
+
     h1 {
         font-size: 2.875rem;
     }
 
     h2 {
         font-size: 2rem;
-        color: #fffffe;
     }
 
     h3 {
         font-size: 1.375rem;
     }
+
+    /* COLUMN WIDTHS */
 
     .why-us .row,
     .steps .row,
