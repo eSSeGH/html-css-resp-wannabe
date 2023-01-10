@@ -61,4 +61,9 @@
     .lessons .row :last-child {
         margin-bottom: 0;
     }
+
+    .why-us {
+        background-color: black;
+        margin-top: -50px;
+    }
 }
